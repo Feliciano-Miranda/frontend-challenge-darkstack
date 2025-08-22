@@ -75,7 +75,7 @@ Desenvolva uma aplicação completa de gerenciamento de tarefas (Todo List) com 
 ### 💻 Especificações Técnicas
 
 **Interface:**
-- Design responsivo (mobile-first)
+- Design responsivo
 - Animações suaves para interações
 - Estados visuais claros (hover, active, disabled)
 - Feedback visual para ações do usuário
