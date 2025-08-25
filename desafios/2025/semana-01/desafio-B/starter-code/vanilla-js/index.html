@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio B - Lista de Tarefas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>📝 Minha Lista de Tarefas</h1>
+            <p>Organize suas tarefas de forma inteligente</p>
+        </header>
+
+        <section class="add-task-section">
+            <form class="add-task-form" id="addTaskForm">
+                <input 
+                    type="text" 
+                    class="add-task-input" 
+                    id="taskInput" 
+                    placeholder="O que precisa ser feito?" 
+                    required
+                >
+                <button type="submit" class="add-button">Adicionar</button>
+            </form>
+            
+            <div class="task-options">
+                <select class="priority-select" id="prioritySelect">
+                    <option value="low">Prioridade Baixa</option>
+                    <option value="medium" selected>Prioridade Média</option>
+                    <option value="high">Prioridade Alta</option>
+                </select>
+                
+                <input 
+                    type="text" 
+                    class="category-input" 
+                    id="categoryInput" 
+                    placeholder="Categoria (opcional)"
+                >
+            </div>
+        </section>
+
+        <section class="filters-section">
+            <div class="filters">
+                <button class="filter-button active" data-filter="all">Todas</button>
+                <button class="filter-button" data-filter="pending">Pendentes</button>
+                <button class="filter-button" data-filter="completed">Concluídas</button>
+            </div>
+
+            <div class="stats">
+                <span id="totalTasks">Total: 0</span>
+                <span id="pendingTasks">Pendentes: 0</span>
+                <span id="completedTasks">Concluídas: 0</span>
+            </div>
+        </section>
+
+        <section class="tasks-section">
+            <div id="tasksList">
+                <!-- As tarefas serão inseridas aqui dinamicamente -->
+            </div>
+
+            <div class="empty-state" id="emptyState">
+                <h3>🎉 Nenhuma tarefa encontrada!</h3>
+                <p>Que tal adicionar uma nova tarefa para começar?</p>
+            </div>
+        </section>
+
+        <footer class="footer-section">
+            <button class="secondary-button" id="clearCompleted">Limpar Concluídas</button>
+            
+            <!-- Complete seu código a partir daqui -->
+
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

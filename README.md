@@ -3,7 +3,9 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-ativo-success.svg)
 
-Bem-vindo(a) ao repositório oficial de Desafios de **Front-End** da **Comunidade Dark Stack**! Este é o nosso espaço dedicado à prática e colaboração através da construção de interfaces, componentes e aplicações web completas.
+## 👋 Bem-vindo(a)!
+
+Este é o repositório oficial de Desafios de **Front-End** da **Comunidade Dark Stack**! Nosso espaço dedicado à prática e colaboração através da construção de interfaces, componentes e aplicações web completas.
 
 ## 🎯 Objetivo
 
@@ -15,16 +17,17 @@ Nosso principal objetivo é acelerar o desenvolvimento técnico dos nossos membr
 
 ## 🚀 Como Participar
 
-A participação em nossa turma fechada é um processo simples:
+Para ter suas contribuições revisadas e fazer parte da nossa turma, o processo é simples:
 
-1.  **Leia nosso Guia Completo:** Para entender toda a dinâmica, acesse nosso **[Guia de Participação de Front-End](https://docs.google.com/document/d/1veKkondcWQDLYow4dMAYqR1BvO7L3r2N5SAfl_hqhXA/edit?usp=sharing)**.
-2.  **Entenda como Contribuir:** Antes de enviar sua primeira solução, leia nosso **[Guia de Contribuição](./CONTRIBUTING.md)**.
+1.  **Inscreva-se na Turma:** Preencha nosso **[FORMULÁRIO DE INSCRIÇÃO](https://forms.gle/MhJQP2RNq5Nz5SMx7)** para se tornar um membro oficial.
+2.  **Entenda a Dinâmica:** Leia nosso **[GUIA DE PARTICIPAÇÃO](./.md)** para compreender todas as regras e o funcionamento da iniciativa.
+3.  **Aprenda a Contribuir:** Antes de enviar sua primeira solução, siga o passo a passo no nosso **[GUIA DE CONTRIBUIÇÃO](./CONTRIBUTING.md)**.
 
 ## 📁 Estrutura do Repositório
 
 * **/desafios**: Contém os enunciados dos desafios semanais e do nosso projeto mensal, o Protocolo Dark.
 * **/solucoes**: Onde todas as soluções dos desafios semanais, enviadas pela comunidade, são organizadas.
-* **O_CODEX_DOS_PROJETOS.md**: Nosso "Hall da Fama"! Um arquivo que lista todos os projetos incríveis (Protocolo Dark) entregues pela comunidade.
+* **CODEX.md**: Nosso "Hall da Fama"! Um arquivo que lista todos os projetos incríveis (Protocolo Dark) entregues pela comunidade.
 
 ## 💬 Comunidade
 
@@ -35,4 +38,4 @@ Participe das nossas discussões e encontros semanais no **[Discord da Comunidad
 Este projeto é distribuído sob a **Licença MIT**. Para mais detalhes, veja o arquivo [LICENSE](./LICENSE). Isso significa que você tem total liberdade para usar suas próprias contribuições em seu portfólio.
 
 ---
-*Feito pela Comunidade Dark Stack.*
+*Feito com ❤️ pela Comunidade Dark Stack.*
